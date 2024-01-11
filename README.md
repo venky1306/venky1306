@@ -1,14 +1,13 @@
 <h1 align="center" id="macropower-title">:wave: Hello there!, I'm Venkat</h1>
 <h3 align="left">Passionate on Backend sys | DevOps | ML applications</h3>
  
-- 🏢 Working on BlueMQ.
+- 👨🏻‍💻 Working on BlueMQ.
 - 🌱 Multicore magician in training.
 - 🌱 Learning and building scalable systems
 - 📫 Connect with me on **[LinkedIn]** **[Twitter]**
 - 📖 Read My Blogs @ **[Medium]**
 - 📝 Resume **[resume]** (Mostly outdated as usual😅).
-- 👨🏻‍💻 Always plugged into the latest and greatest on Substack.
-- 🚀 When I'm not coding, you can find me watching movies.
+- 🚀 When I'm not coding, I plugged into movies or Substack.
 
 
 <br>
