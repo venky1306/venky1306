@@ -1,16 +1,14 @@
-<h1 align="center" id="macropower-title">:wave: Hello there!, Venkat</h1>
-<h3 align="left">Passionate on Backend/DevOps</h3>
-
-```def intro():
-    print("Hello there! I'm a coding enthusiast who loves to build efficient systems in Go. When I'm not coding, 
-you can find me watching movies, reading about the latest tech trends, or playing Clash of Clans. I'm also passionate about machine learning in software engineering and learning and building scalable systems. Let's connect
- and build something awesome together! 🚀")```
+<h1 align="center" id="macropower-title">:wave: Hello there!, I'm Venkat</h1>
+<h3 align="left">Passionate on Backend sys | DevOps | ML applications</h3>
+ 
 - 🏢 Working on BlueMQ.
 - 🌱 Multicore magician in training.
+- 🌱 Learning and building scalable systems
 - 📫 Connect with me on **[LinkedIn]** **[Twitter]**
 - 📖 Read My Blogs @ **[Medium]**
 - 📝 Resume **[resume]** (Mostly outdated as usual😅).
 - 👨🏻‍💻 Always plugged into the latest and greatest on Substack.
+- 🚀 When I'm not coding, you can find me watching movies.
 
 
 <br>
